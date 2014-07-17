@@ -1,4 +1,4 @@
 Try Git
 =======
 
-This is my first try of Git
+I'm in the develop branch
